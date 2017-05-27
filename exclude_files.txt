@@ -1,0 +1,13 @@
+.git\
+.gitignore\
+.gitmodules\
+.gif\
+api-ms-win
+cctest
+v8_for_testing.dll
+msvc
+pgort1
+dbghelp
+ucrtbase
+vccorlib
+vcruntime
